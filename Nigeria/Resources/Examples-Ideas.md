@@ -29,8 +29,9 @@ Agribusinesses aiming to meet global demand for Nigeria grown produce looking fo
 - SSP585
 - SSP245
 
-### Useful Model Documentation 
+### Useful Model Documentation & Academic Papers
 - [Worldclim](https://worldclim.org/data/cmip6/cmip6climate.html)
+- Links to Multiple [Publications](https://docs.google.com/document/d/1cLb_99EFHEevbbox3ubInYBpjnLLbbbmiZV0IY3wdZc/edit?usp=sharing)
 
 ### Relevant Climate Factors
 - Humidity
@@ -42,9 +43,6 @@ Agribusinesses aiming to meet global demand for Nigeria grown produce looking fo
 
 ### Data Granularity
 - Ag - monthly downscaled data may be ok
-
-### Other academic papers that may be useful
-- To be provided, such as NIMET
 
 ## Recommend Teams Define Scope of Analysis
 Examples include:
