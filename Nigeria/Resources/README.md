@@ -21,7 +21,13 @@ For links to the following data sources, click [HERE](https://docs.google.com/do
 - Resilience / Adaptation
 - Misc / Other
 
-## Models
+## Tools & Models
+For links to the following tools, click [HERE](https://docs.google.com/document/d/1cHEpb1uoISyRFqOPWWqQoWz7DZJtlbXC1_aXoBPWckU/edit?usp=sharing)
+- Geographic Information Systems (note that the Statistical Languages and remote sensing software below are also often used as geographical information processing systems)
+- Remote Sensing Software
+- Statistical Languages (typically used via extensive libraries)
+- Environmental simulation software
+- Crop simulation software (highly recommend looking at the Agricultural model intercomparison project website)
 
 ## Getting Started With AWS
 
