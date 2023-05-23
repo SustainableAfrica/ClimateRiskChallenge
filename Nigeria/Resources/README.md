@@ -9,6 +9,9 @@ For a list of commonly asked questions, click [HERE](https://github.com/Sustaina
 - Determining Scope Examples are [HERE](https://github.com/SustainableAfrica/ClimateRiskChallenge/blob/main/Nigeria/Resources/Examples-Ideas.md#recommend-teams-define-scope-of-analysis)
 - Checklist of things to do is [HERE](https://github.com/SustainableAfrica/ClimateRiskChallenge/blob/main/Nigeria/Resources/Examples-Ideas.md#checklist-of-things-you-will-probably-need-to-do)
 
+## Final Submission & Scoring
+- Challenge Submission Requirements & Scoring is [HERE](https://docs.google.com/document/d/1bwQ4fEhMQ6YyjMDVoC-iIQdmL_4s0xrGnDRgqR8fzp0/edit?usp=sharing)
+
 ## Data Sources
 For links to the following data sources, click [HERE](https://docs.google.com/document/d/1fJ8rV_k2pm_12M78tVO1p4se6dV-E0Wn/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true)
 - Soil
@@ -30,6 +33,7 @@ For links to the following tools, click [HERE](https://docs.google.com/document/
 - Crop simulation software (highly recommend looking at the Agricultural model intercomparison project website)
 
 ## Getting Started With AWS
+To be provided
 
 ## Need Help?
 - Attend a Training Session
