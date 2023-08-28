@@ -8,7 +8,7 @@ The goal of the Challenge is to create a set of scientifically-based climate-ris
 
 SAI aims to establish a grassroots movement that is led by local community stakeholders, where Africans own, improve, develop, and expand a growing repository of models, data, analytical capabilities and training materials.
 
-With the support of OS-Climate members and volunteers such as Amazon, LSEG, UN PRI, and others, Challenge participants receive training, support, data, and mentorship to analyze the impacts of climate change.
+With the support of OS-Climate members and volunteers such as Amazon and All Fed, Challenge participants receive training, support, data, and mentorship to analyze the impacts of climate change.
 
 The first Challenge is focused on Nigeria's agriculture sector and specific crops.
 
