@@ -1,7 +1,9 @@
 # Climate Risk Challenge
 One of the core elements of the Sustainable Africa Intiative is local collaboration and outreach through the Climate Risk Research Challenge. The Climate Risk Research Challenge offers three winning teams a portion of $10,000 USD in prize money. The challenge is open to a wide range of participants, including African university climate scientists, and students in Agriculture and Environmental Studies programs. 
 
-Participants will be provided with the necessary resources and training to gain a better understanding of the impacts of climate change and to develop strategies to mitigate potential climate-related risks, including Policy, Economic, Social and Physical Climate, under different IPCC transition scenarios.
+Participants will be provided with the necessary [resources](https://github.com/SustainableAfrica/ClimateRiskChallenge/blob/main/ParticipantResources.md) and [training](https://drive.google.com/drive/folders/147O--qDvs-lB0o2bh-2N1UjxQUKL8y5W?usp=sharing) to gain a better understanding of the impacts of climate change and to develop strategies to mitigate potential climate-related risks, including Policy, Economic, Social and Physical Climate, under different IPCC transition scenarios.
+
+### *Challenge Participants* [Start Here](https://github.com/SustainableAfrica/ClimateRiskChallenge/blob/main/ParticipantResources.md#climate-risk-challenge-resources-for-participants)
 
 ## Challenge Goals
 The goal of the Challenge is to create a set of scientifically-based climate-risk models and long-term adaptation plans, which will be developed by university students, data scientists, sustainability advocates, and environmental scientists in collaboration with consortium members of the Sustainable Africa Initiative (SAI).
