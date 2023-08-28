@@ -17,6 +17,11 @@ A list of rules and eligibility criteria can be found [here](https://docs.google
 ### Judges' Assessment Criteria
 The assessment criteria and scoring rubric for the Climate Risk Research Challenge can be found [here](https://docs.google.com/document/d/1bwQ4fEhMQ6YyjMDVoC-iIQdmL_4s0xrGnDRgqR8fzp0/edit?usp=sharing).
 
+## Training Materials
+Introductory [Video](https://drive.google.com/file/d/1McpsZ3Eu8bQ-FGtKbz-ZgEU4jf6bxarZ/view?usp=sharing) and [Presentation](https://drive.google.com/file/d/1-LpukPrfMm1OBunCroF47aywVogG2xC3/view?usp=sharing).
+
+Additional Training Videos and Materials will be available [here](https://drive.google.com/drive/folders/147O--qDvs-lB0o2bh-2N1UjxQUKL8y5W?usp=sharing).
+
 ## Using GitHub
 ### Structure
 Each Climate Risk Challenge is structured based on country, university, and team.  As an example:  SustainableAfrica / ClimateRiskChallenge / Nigeria / Lagos University / Team A 
