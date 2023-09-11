@@ -1,5 +1,7 @@
 # Climate Risk Challenge Resources for Participants
 ## Getting Started
+### GitHub Basics
+New to GitHub?  Learn more [here](https://github.com/SustainableAfrica/ClimateRiskChallenge/blob/main/UsingGitHub.md#getting-started-with-github-an-overview-and-basics)
 ### Example Use Cases
 Sample ideas to consider can be found [here](https://docs.google.com/document/d/1DYht5RvYztKGZKxAC89PZNif1AgSRx0U/edit?usp=sharing&ouid=111309013911865667965&rtpof=true&sd=true).
 ### Checklist of Common Tasks
