@@ -25,7 +25,7 @@ The initiative aims to encourage collaboration, enhance awareness of the potenti
 This platform will enable the development of mitigation and adaptation strategies that reduce the impact of physical climate change and a shift towards a low-carbon world.
 
 ## Volunteer to Help
-Do you want to Make A Difference? [Click Here](https://sustainableafricainitiative.org/engagement/#start-collaboraing) to volunteer.
+Do you want to Make A Difference? [Click Here](https://sustainableafricainitiative.org/volunteer/) to volunteer.
 We need software developers, climate scientists, data scientists, project managers, community managers, data engineers, and others to help.
 
 
