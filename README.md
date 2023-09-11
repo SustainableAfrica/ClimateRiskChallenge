@@ -4,6 +4,7 @@ One of the core elements of the Sustainable Africa Intiative is local collaborat
 Participants will be provided with the necessary [resources](https://github.com/SustainableAfrica/ClimateRiskChallenge/blob/main/ParticipantResources.md) and [training](https://drive.google.com/drive/folders/147O--qDvs-lB0o2bh-2N1UjxQUKL8y5W?usp=sharing) to gain a better understanding of the impacts of climate change and to develop strategies to mitigate potential climate-related risks, including Policy, Economic, Social and Physical Climate, under different IPCC transition scenarios.
 
 ### *Challenge Participants* [Start Here](https://github.com/SustainableAfrica/ClimateRiskChallenge/blob/main/ParticipantResources.md#climate-risk-challenge-resources-for-participants)
+### *Need Help with GitHub* [Read Me](https://github.com/SustainableAfrica/ClimateRiskChallenge/blob/main/UsingGitHub.md#getting-started-with-github-an-overview-and-basics)
 
 ## Challenge Goals
 The goal of the Challenge is to create a set of scientifically-based climate-risk models and long-term adaptation plans, which will be developed by university students, data scientists, sustainability advocates, and environmental scientists in collaboration with consortium members of the Sustainable Africa Initiative (SAI).
