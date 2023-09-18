@@ -1,5 +1,8 @@
 # Nigeria Resources
 
+## Office Hours
+Need help/have a question? Join us for Office Hours on [Mondays from 3:30-4:30 PM](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTMyNzMwMzItNzMzYS00Y2IzLWFiNGMtMWZmOGI3ZTlmZmEx%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d) Nigeria local time. Office Hours held between 18-Sep to 23-Oct and has an open agenda for you to ask questions.
+
 ## Frequently Asked Questions
 For a list of commonly asked questions, click [HERE](https://github.com/SustainableAfrica/ClimateRiskChallenge/blob/main/Nigeria/Resources/FAQ.md#frequently-asked-questions).
 
