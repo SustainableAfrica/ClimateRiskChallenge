@@ -9,7 +9,7 @@
 - Office Hours (open agenda, drop-in with questions)
   - Every Monday from 18-Sep thru 27-Oct at 3:30-4:30 PM Nigeria local time
   - Conference Bridge Info [Join Here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTMyNzMwMzItNzMzYS00Y2IzLWFiNGMtMWZmOGI3ZTlmZmEx%40thread.v2/0?context=%7b%22Tid%22%3a%2214178ab3-3669-440b-a5a8-9025d18e2853%22%2c%22Oid%22%3a%225859dd70-0471-4755-9199-2b91c974baed%22%7d)
-- Submissions Due: **27-Oct-2023**
+- Submissions Due: **3-Nov-2023**
 - Top 3 Winning Teams Announced:  **no later than 30-Nov-2023**
 
 ## Getting Started
